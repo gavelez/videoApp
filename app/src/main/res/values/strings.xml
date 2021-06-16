@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TvShowApp</string>
+    <string name="notification_player_channel_name">Video Player</string>
+    <string name="notification_player_channel_description">The Video Player</string>
+    <string name="stop_player">Stop Player</string>
+</resources>
