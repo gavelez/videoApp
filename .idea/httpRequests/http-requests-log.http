@@ -1,0 +1,7 @@
+GET https://api.tvmaze.com/shows
+Accept: application/json
+
+<> 2021-06-15T010527.200.json
+
+###
+

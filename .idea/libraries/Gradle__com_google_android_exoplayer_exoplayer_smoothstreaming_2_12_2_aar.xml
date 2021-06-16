@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51a0e27be0291cfd84c2f3b461ed82b2/jetified-exoplayer-smoothstreaming-2.12.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b043d288501671766de69c642c4dca58/jetified-exoplayer-smoothstreaming-2.12.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b043d288501671766de69c642c4dca58/jetified-exoplayer-smoothstreaming-2.12.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b043d288501671766de69c642c4dca58/jetified-exoplayer-smoothstreaming-2.12.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.12.2/6f0988def1f36f65338b716af88ee76ac6b8a346/exoplayer-smoothstreaming-2.12.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-smoothstreaming/2.12.2/6369161d5e133607592bc27aec4112169c8abe09/exoplayer-smoothstreaming-2.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
